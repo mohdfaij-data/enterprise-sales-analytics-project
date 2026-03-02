@@ -1,61 +1,84 @@
 # Enterprise Sales Analytics Project
 
-![Dashboard Preview](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Enterprise-Dashboard.png)
+End-to-end enterprise sales performance analytics solution built using SQL, Excel, and Power BI.
+
+---
+
+## Dashboard Preview
+
+![Enterprise Dashboard](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
 
 ---
 
 ## Project Overview
 
-This end-to-end analytics solution was built to simulate a real-world enterprise sales environment where raw relational data must be structured, validated, and converted into decision-support insights.
+This end-to-end analytics solution simulates a real-world enterprise sales environment where raw relational and transactional data is structured, validated, and transformed into executive-level performance insights.
 
-The workflow begins with relational data modeling across Customers, Orders, Order Items, and Products tables. Revenue and profit were calculated at the transaction level using pricing, cost, and discount logic before KPI aggregation was performed.
+The workflow spans across relational data modeling, transaction-level revenue and profit calculations, KPI aggregation, and executive dashboard visualization.
 
-Using SQL for data querying and business logic implementation, and Power BI for executive visualization, this project demonstrates how financial performance metrics can be derived from operational data.
-
----
-
-## Business Objectives
-
-- Analyze revenue and profitability trends
-- Identify high-performing product categories
-- Measure customer segment contribution
-- Evaluate cancellation behavior by payment method
-- Track average order value and margin performance
+Revenue and profit were computed at the order-item level using pricing, cost, and discount logic before consolidation into strategic performance metrics.
 
 ---
 
-## Data Model
+## Key Performance Metrics
 
-The solution is built on a structured relational architecture:
-
-- Customers ↔ Orders
-- Orders ↔ Order Items
-- Order Items ↔ Products
-
-Relational integrity was validated before KPI engineering.
+- **Total Revenue:** 21.42M  
+- **Total Profit:** 5.53M  
+- **Profit Margin:** 25.82%  
+- **Average Order Value:** 10.71K  
+- **Cancellation Rate:** 8.40%
 
 ---
 
-## Key KPIs Developed
+## Data Architecture
 
-- Total Revenue
-- Total Profit
-- Profit Margin %
-- Average Order Value
-- Cancellation Rate
-- Revenue Contribution by Segment
+### Relational Model – Customers & Orders
+
+![Relational Model](Data-Model_Customers-Orders.png)
+
+This layer establishes structured relationships between customers and their respective orders, enabling:
+
+- Customer segmentation analysis  
+- Order lifecycle tracking  
+- Payment method performance monitoring  
+- Cancellation pattern evaluation  
+
+---
+
+### Transactional Model – Order Items & Products
+
+![Transactional Model](Order-Items-Product-mode.png)
+
+This transactional layer captures item-level sales data including:
+
+- Unit price and unit cost  
+- Discount logic implementation  
+- Revenue calculation methodology  
+- Profit derivation at transaction level  
+- Product category mapping  
+
+All KPI metrics were derived from this structured transactional layer.
 
 ---
 
 ## Tools & Technologies
 
 - SQL
-- Python (Pandas,Numpy,Matplotlib)
-- Power BI
-- Excel
+- Python (Pandas, Numpy, Matplotlib, Seaborn)  
+- Power BI  
+- Excel  
 
 ---
 
-Developed by **MOHD FAIJ**
+## Repository Contents
 
-Data Analytics | SQL | Python | Power BI
+- Enterprise Dashboard Screenshot  
+- Relational Data Model Screenshot  
+- Transactional Data Model Screenshot  
+- Power BI Template File (.pbit)
+
+---
+
+Developed by **Mohd Faij**  
+
+SQL | Python | Power BI
