@@ -1,6 +1,6 @@
 # Enterprise Sales Analytics Project
 
-End-to-end enterprise sales performance analytics solution built using SQL, Excel, and Power BI.
+End-to-end enterprise sales performance analytics solution built using SQL, Pyhton(Pandas,Numpy) Excel, and Power BI.
 
 ---
 
