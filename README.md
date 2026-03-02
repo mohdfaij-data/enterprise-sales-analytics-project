@@ -57,4 +57,4 @@ Relational integrity was validated before KPI engineering.
 ---
 
 Developed by **Mohd Faij**
-Focused on Data Analytics and Business Intelligence
+Data Analytics | SQL | Python | Power BI
