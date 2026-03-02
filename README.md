@@ -79,6 +79,6 @@ All KPI metrics were derived from this structured transactional layer.
 
 ---
 
-Developed by **Mohd Faij**  
+Developed by **MOHD FAIJ**  
 
 Data Analytics | SQL | Python | Power BI
