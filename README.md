@@ -6,7 +6,7 @@ End-to-end enterprise sales performance analytics solution built using SQL, Exce
 
 ## Dashboard Preview
 
-![Enterprie Dashboard](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
+![Enterprie Dashboar](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Enterprise-Dashboard.png)
 
 ---
 
