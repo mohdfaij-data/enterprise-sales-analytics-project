@@ -6,7 +6,7 @@ End-to-end enterprise sales performance analytics solution built using SQL, Exce
 
 ## Dashboard Preview
 
-(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
+![Enterprie Dashboard](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
 
 ---
 
@@ -34,7 +34,7 @@ Revenue and profit were computed at the order-item level using pricing, cost, an
 
 ### Relational Model – Customers & Orders
 
-(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Data-Model_Customers-Orders.png.png)
+![Relational Model](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Data-Model_Customers-Orders.png.png)
 
 This layer establishes structured relationships between customers and their respective orders, enabling:
 
@@ -47,7 +47,7 @@ This layer establishes structured relationships between customers and their resp
 
 ### Transactional Model – Order Items & Products
 
-(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Order-Items-Product-mode.png.png)
+![Transactional Model](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Order-Items-Product-mode.png.png)
 
 This transactional layer captures item-level sales data including:
 
