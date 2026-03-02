@@ -6,7 +6,7 @@ End-to-end enterprise sales performance analytics solution built using SQL, Exce
 
 ## Dashboard Preview
 
-![Enterprise Dashboard](https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
+(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/README.md)
 
 ---
 
@@ -34,7 +34,7 @@ Revenue and profit were computed at the order-item level using pricing, cost, an
 
 ### Relational Model – Customers & Orders
 
-![Relational Model](Data-Model_Customers-Orders.png)
+(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Data-Model_Customers-Orders.png.png)
 
 This layer establishes structured relationships between customers and their respective orders, enabling:
 
@@ -47,7 +47,7 @@ This layer establishes structured relationships between customers and their resp
 
 ### Transactional Model – Order Items & Products
 
-![Transactional Model](Order-Items-Product-mode.png)
+(https://github.com/mohdfaij-data/enterprise-sales-analytics-project/blob/main/Order-Items-Product-mode.png.png)
 
 This transactional layer captures item-level sales data including:
 
@@ -81,4 +81,4 @@ All KPI metrics were derived from this structured transactional layer.
 
 Developed by **Mohd Faij**  
 
-SQL | Python | Power BI
+Data Analytics | SQL | Python | Power BI
